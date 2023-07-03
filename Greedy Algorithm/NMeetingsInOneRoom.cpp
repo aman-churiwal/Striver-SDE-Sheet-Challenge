@@ -8,7 +8,7 @@ private:
     
     public:
     //Function to find the maximum number of meetings that can
-    //be performed in a meeting room.
+    /be performed in a meeting room.
     int maxMeetings(int start[], int end[], int n)
     {
         vector<pair<int, int>> time;
