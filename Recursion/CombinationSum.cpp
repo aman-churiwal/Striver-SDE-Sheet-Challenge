@@ -11,7 +11,7 @@ public:
             return;
         }
 
-        / Take the current candidate;
+        // Take the current candidate;
         if (candidates[ind] <= target)
         {
             comb.push_back(candidates[ind]);
