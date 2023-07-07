@@ -1,5 +1,6 @@
-#include <bits/stdc++.h> 
-#include <bits/stdc++.h> 
+#include <bits/stdc++.h>
+using namespace std;
+
 int findMajorityElement(int arr[], int n) {
 	int majEle = nums[0], votes = 1;
     
